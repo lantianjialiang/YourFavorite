@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YourFavorite</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Call</string>
+    <string name="title_section2">Message</string>
+    <string name="action_sort_by_count">Sort By Count</string>
+    <string name="action_sort_by_duration">Sort By Duration</string>
+
+</resources>
